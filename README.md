@@ -1,4 +1,4 @@
-# BA in Numerical Mathematics (Jan 11, 2016)
+# BA in Numerical Mathematics at _Zuse Institute Berlin_ in co-operation with start-up _Clue_ https://www.helloclue.com/ (Jan 11, 2016)
 
 Unfortunately, my thesis cannot be made publicly available for the next couple of years due to agreement with external partners.
 
